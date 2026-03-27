@@ -1,0 +1,18 @@
+# 절대 Git에 올리면 안되는 파일
+.env
+*.db
+
+# 가상환경
+.venv/
+
+# Vector DB 저장 폴더
+vectordb/
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# OS 파일
+.DS_Store
+Thumbs.db

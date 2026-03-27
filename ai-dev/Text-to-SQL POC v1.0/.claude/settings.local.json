@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py -3 --version)",
+      "Bash(py -3 -m pip --version)",
+      "Bash(C:/Users/sjinc/AppData/Local/Programs/Python/Python310/python.exe -c \"import pip; print\\(pip.__version__\\)\")"
+    ]
+  }
+}
